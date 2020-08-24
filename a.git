@@ -1,2 +1,1 @@
-git - v
-
+git --global user.name "Alexandre Silva" 
